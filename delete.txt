@@ -1,0 +1,19 @@
+{
+    "args": {},
+    "data": "",
+    "files": {},
+    "form": {},
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Cache-Control": "no-cache",
+        "Content-Length": "0",
+        "Host": "httpbin.org",
+        "Postman-Token": "bd720760-5dfa-47ac-9fa6-9693c7cb9f20",
+        "User-Agent": "PostmanRuntime/7.29.2",
+        "X-Amzn-Trace-Id": "Root=1-62f14ac4-4f45d4c4073b96a06a4248d2"
+    },
+    "json": null,
+    "origin": "54.86.50.139",
+    "url": "http://httpbin.org/delete"
+}
