@@ -1,6 +1,0 @@
-{
-    "Access-Control-Allow-Origin": "*",
-    "Connection": "keep-aliv",
-    "Content-Length": "138",
-    "Content-Type": "application/json"
-}
