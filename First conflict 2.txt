@@ -1,1 +1,2 @@
 First conflict 2
+Меняю глобал
